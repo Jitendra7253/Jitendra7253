@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Hi%2C+I'm+Jitendra+Singh+Kandari;%F0%9F%92%BB+Full+Stack+Web+Developer;%F0%9F%9A%80+Building+Modern+Web+Apps;%F0%9F%93%8D+Dehradun%2C+India" alt="Typing SVG" />
+  <a href="https://github.com/Jitendra7253">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Jitendra!&fontSize=42&fontColor=fff&animation=twinkling" width="100%" />
+  </a>
 </div>
 
 ### 👨‍💻 About Me

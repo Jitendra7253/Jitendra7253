@@ -10,22 +10,61 @@
 ---
 
 ### 🔗 Connect with Me
-- **LinkedIn:** [jitendra-singh-kandari](https://www.linkedin.com/in/your-linkedin-id)
-- **Email:** [jitendrasinghkandari96@gmail.com](mailto:jitendrasinghkandari96@gmail.com)
-- 🌐 **Portfolio:** [jskandari.netlify.app](https://jskandari.netlify.app/)
+
+<p align="center">
+  <a href="https://linkedin.com/in/jskandari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jitendrasinghkandari96@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://jskandari.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://instagram.com/j_s_kandari" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=917253069683" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40" /><br>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40" /><br>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="HTML5" width="40" height="40" /><br>
+      <sub><b>HTML5/CSS3</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" /><br>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" /><br>
+      <sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" /><br>
+      <sub><b>Git</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
+
+
 
 📈 **GitHub Stats**
 [![Jitendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jitendra7253&show_icons=true&theme=radial)](https://github.com/Jitendra7253)

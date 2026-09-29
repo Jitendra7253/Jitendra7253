@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Jitendra Singh Kandari 👋
 
-<!--
-**Jitendra7253/Jitendra7253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🌐 Web Developer at **MPS Pvt. Ltd.**
+- 📍 Based in **Dehradun, India**
+- 🚀 Passionate about Full Stack Web Development, Cloud Services & Modern Web Tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with Me
+- **LinkedIn:** [jitendra-singh-kandari](https://www.linkedin.com/in/your-linkedin-id)
+- **Email:** [jitendrasinghkandari96@gmail.com](mailto:jitendrasinghkandari96@gmail.com)
+
+---
+
+### 🛠️ Tech Stack & Tools
+`HTML5` | `CSS3` | `JavaScript` | `React` | `Node.js` | `Git` | `AWS`
+
+---
+
+📈 **GitHub Stats**
+![Jitendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jitendra7253&show_icons=true&theme=radial)

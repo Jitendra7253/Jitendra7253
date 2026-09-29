@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=26&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=550&lines=const+developer+%3D+%22Jitendra%22%3B;developer.skills+%3D+%5B%22Web%22%2C+%22React%22%2C+%22Node%22%5D%3B;console.log(%22Welcome+to+my+Profile!%22)%3B" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Hi%2C+I'm+Jitendra+Singh+Kandari;%F0%9F%92%BB+Full+Stack+Web+Developer;%F0%9F%9A%80+Building+Modern+Web+Apps;%F0%9F%93%8D+Dehradun%2C+India" alt="Typing SVG" />
 </div>
 
 ### 👨‍💻 About Me

@@ -28,4 +28,4 @@
 ---
 
 📈 **GitHub Stats**
-![Jitendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jitendra7253&show_icons=true&theme=radial)
+[![Jitendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jitendra7253&show_icons=true&theme=radial)](https://github.com/Jitendra7253)

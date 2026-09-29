@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Jitendra7253">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Jitendra!&fontSize=42&fontColor=fff&animation=twinkling" width="100%" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=26&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=550&lines=const+developer+%3D+%22Jitendra%22%3B;developer.skills+%3D+%5B%22Web%22%2C+%22React%22%2C+%22Node%22%5D%3B;console.log(%22Welcome+to+my+Profile!%22)%3B" alt="Terminal Typing" />
 </div>
 
 ### 👨‍💻 About Me

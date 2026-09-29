@@ -10,6 +10,7 @@
 ### 🔗 Connect with Me
 - **LinkedIn:** [jitendra-singh-kandari](https://www.linkedin.com/in/your-linkedin-id)
 - **Email:** [jitendrasinghkandari96@gmail.com](mailto:jitendrasinghkandari96@gmail.com)
+- 🌐 **Portfolio:** [jskandari.netlify.app](https://jskandari.netlify.app/)
 
 ---
 

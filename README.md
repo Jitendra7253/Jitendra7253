@@ -1,8 +1,7 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Jitendra+Singh+Kandari+%F0%9F%90%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;Welcome+to+my+GitHub+Profile!+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</h1>
+<div align="center">
+  <h1>👋 Hi there, I'm <span style="color: #2E86C1;">Jitendra Singh Kandari</span></h1>
+  <p><b>🚀 Web Developer | Crafting scalable web applications & modern digital solutions</b></p>
+</div>
 
 ### 👨‍💻 About Me
 - 🌐 Web Developer at **MPS Pvt. Ltd.**
